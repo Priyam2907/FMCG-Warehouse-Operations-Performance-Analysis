@@ -1,7 +1,7 @@
 # FMCG Warehouse Operations & Performance Analysis
 
 ## Dashboard Preview
-![Executive View Dashboard](ExecutiveDashboard.png)
+![Executive View Dashboard](Executive_Dashboard.png)
 
 
 ## Project Overview
