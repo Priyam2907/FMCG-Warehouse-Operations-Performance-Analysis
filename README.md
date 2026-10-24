@@ -2,6 +2,7 @@
 
 ## Dashboard Preview
 ![Executive View Dashboard](Executive_Dashboard.png)
+![Operation & Risk Dashboard](Operation_&_Risk_Dasboard.png)
 
 
 ## Project Overview
